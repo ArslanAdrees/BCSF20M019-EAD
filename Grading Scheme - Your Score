@@ -1,0 +1,26 @@
+Total Marks: 10
+
+Build Success: 1
+Clean Code: 1
+	Proper Naming Convention: 0.5
+	Proper Indentation: 0.5
+Classes are Designed as per requirements: 2
+CalculatePrice - Business Critical Function: 1
+assignDriver - Service Critical Function: 1
+Input Validations for Location: 1 
+User-interface is managed properly: 1
+Any of Update function is done correctly: 1
+Followed all submission guidelines: 1
+--------------------------------------------------
+Your Score: 9/10
+
+Build Success: 1 (Done)
+Clean Code: 1 (OK)
+Classes are Designed as per requirements: 2 (ok)
+CalculatePrice - Business Critical Function: 1 (Ok)
+assignDriver - Service Critical Function: 1 (Ok)
+Input Validations for Location: 1 (Ok)
+User-interface is managed properly: 1 (Ok)
+Any of Update function is done correctly: 1 (Ok)
+Followed all submission guidelines: 0 (Follow the submission guidelines from Google Classroom. I'll update this mark)
+--------------------------------------------------
