@@ -133,7 +133,7 @@ namespace EAD_Assignment05
         public void UpdateEmployee()
         {
             int id;
-            Console.Write("Enter driver ID to be updated : ");
+            Console.Write("Enter Employee ID to be updated : ");
             id = int.Parse(Console.ReadLine());
 
             Console.Write("Enter First name: ");
@@ -389,7 +389,7 @@ namespace EAD_Assignment05
         {
 
             int id;
-            Console.Write("Enter driver ID to be updated : ");
+            Console.Write("Enter Employee ID to be updated : ");
             id = int.Parse(Console.ReadLine());
 
             Console.Write("Enter First name: ");
